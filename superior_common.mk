@@ -16,8 +16,5 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlay
 
-# Lineage Health
-include hardware/google/pixel/lineage_health/device.mk
-
 # Touch
 include hardware/google/pixel/touch/device.mk
